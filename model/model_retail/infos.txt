@@ -1,0 +1,6 @@
+                             Model name:      ultimate_good_14_gdp
+                      Estimation Method:                       OLS
+                         number of lags:                         1
+    Transform only until match is found:                        NO
+       overall number of models checked:                      1000
+                           Models found:                       460
